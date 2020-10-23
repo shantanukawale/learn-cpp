@@ -12,6 +12,6 @@ int main () {
     maxSoFar = max(maxSoFar, maxEndingHere);
   }
 
-  cout <<"maxSoFar" << maxSoFar << endl;
+  cout <<"maxSoFar: " << maxSoFar << endl;
   return 0;
 }
