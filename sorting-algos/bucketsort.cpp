@@ -1,5 +1,5 @@
 // C++ program to sort an
-// array using bucket sort.
+// array using bucket sort
 #include <algorithm>
 #include <iostream>
 #include <vector>
